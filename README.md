@@ -29,6 +29,9 @@ You will also need to create a .env file and include your mysql information.
 
 Additionally, you can use Insomnia to complete the CRUD request.
 
+Link to deployed application:
+https://mvtarget.herokuapp.com/
+
 ---
 
 Here is a demo on how to use it.
