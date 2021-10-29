@@ -31,9 +31,9 @@ Additionally, you can use Insomnia to complete the CRUD request.
 
 Link to deployed application:
 https://mvtarget.herokuapp.com/
-try api/categories
-try api/products
-try api/tags
+ - try api/categories
+ - try api/products
+ - try api/tags
 
 ---
 
