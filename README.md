@@ -1,21 +1,12 @@
-# Employee Tracker
+# E-Commerce Back End
 
 ## Description
 
-Employee Tracker is a content management system aplication using command lines. The application has many uses detailed below.
-
-    - View all departments
-        - view departments and ID
-    - VIew all roles
-        - view roles, their ID#, salary, and which department that role belongs to
-    - View all employees
-        - view employee names, their ID#, their role ID#, their manager ID#, title, salary and department
-    - Add a department
-    - Add a role
-    - Add an employee
-    - Update an employee
-        - update their role
-
+This is a back end application for E-commerce utilizing categories, products and tags and their association between one another. You are able to do mutiple things such as
+    - create categories, products, and tags
+    - find one or all categories, products, and tags
+    - update and delete categories, products, and tags
+    
 ---
 
 ## Table of Contents (Optional)
@@ -32,42 +23,21 @@ Employee Tracker is a content management system aplication using command lines. 
 
 ## Installation
 
-You will need the package.json and the required dependencies to use the application.
+You will need the package.json and the required dependencies to use the application - dotenv, express, mysl2, and sequelize.
+
+You will also need to create a .env file and include your mysql information.
+
+Additionally, you can use Insomnia to complete the CRUD request.
 
 ---
 
 Here is a demo on how to use it.
-https://watch.screencastify.com/v/9ogPvPaoWkYAygdJEDhh
+https://watch.screencastify.com/v/xsehNtQ9F8Uor3IV7q4A
 
 ## Usage
-
-<img width="442" alt="Screen Shot 2021-10-26 at 11 47 41 PM" src="https://user-images.githubusercontent.com/90426657/139014381-5e4ff27f-98e2-4bfe-994e-6fa5a6a3d06f.png">
-<img width="440" alt="Screen Shot 2021-10-26 at 11 47 53 PM" src="https://user-images.githubusercontent.com/90426657/139014386-606a3369-4818-474d-b8a0-8376bf40332d.png">
-<img width="758" alt="Screen Shot 2021-10-26 at 11 48 13 PM" src="https://user-images.githubusercontent.com/90426657/139014388-65c7f8ed-f162-4999-94a3-b20181b40b31.png">
-
----
-
-## Contribute
-
-NA
-
----
-
-## Tests
-
-NA
-
----
-
-## Credits
-
-Credits to the Inquirer,  MySQL and console table.
-
----
-
-## License
-
-MIT ![Image of MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+<img width="1383" alt="Screen Shot 2021-10-28 at 11 39 39 PM" src="https://user-images.githubusercontent.com/90426657/139390476-ba1c43e4-20de-4d55-9e43-fd5d02a163c4.png">
+<img width="1394" alt="Screen Shot 2021-10-28 at 11 40 07 PM" src="https://user-images.githubusercontent.com/90426657/139390485-4d96380e-2efc-48fd-8e6e-ae92f5251921.png">
+<img width="1415" alt="Screen Shot 2021-10-28 at 11 41 56 PM" src="https://user-images.githubusercontent.com/90426657/139390487-8368d97b-cfaa-4a25-b8c6-cbb456de52f0.png">
 
 ---
 
